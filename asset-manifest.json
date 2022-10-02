@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mui-material-socialappui/static/css/main.ca607698.css",
+    "main.js": "/mui-material-socialappui/static/js/main.3095ce3f.js",
+    "static/js/787.7f1d6754.chunk.js": "/mui-material-socialappui/static/js/787.7f1d6754.chunk.js",
+    "index.html": "/mui-material-socialappui/index.html",
+    "main.ca607698.css.map": "/mui-material-socialappui/static/css/main.ca607698.css.map",
+    "main.3095ce3f.js.map": "/mui-material-socialappui/static/js/main.3095ce3f.js.map",
+    "787.7f1d6754.chunk.js.map": "/mui-material-socialappui/static/js/787.7f1d6754.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca607698.css",
+    "static/js/main.3095ce3f.js"
+  ]
+}
